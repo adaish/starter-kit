@@ -93,7 +93,7 @@ Mine Dogucu (@mdogucu)
 
 **London** 
 
-Alice Daish (@adaish), Chiin Tan (@chiin), Claudia Vitolo (@claudia), Hannah Frick (@hannah), Rachel Kirkham (@r_grrrl)
+Chiin Tan (@chiin), Alice Daish (@adaish),  Claudia Vitolo (@claudia), Hannah Frick (@hannah), Rachel Kirkham (@r_grrrl)
 
 - meetup: [https://www.meetup.com/rladies-london/](https://www.meetup.com/rladies-london/)
 - twitter: [https://twitter.com/RLadiesLondon](https://twitter.com/RLadiesLondon)
